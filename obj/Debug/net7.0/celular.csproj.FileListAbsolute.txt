@@ -1,0 +1,15 @@
+/Users/jacobo/Projects/celular/celular/bin/Debug/net7.0/celular
+/Users/jacobo/Projects/celular/celular/bin/Debug/net7.0/celular.deps.json
+/Users/jacobo/Projects/celular/celular/bin/Debug/net7.0/celular.runtimeconfig.json
+/Users/jacobo/Projects/celular/celular/bin/Debug/net7.0/celular.dll
+/Users/jacobo/Projects/celular/celular/bin/Debug/net7.0/celular.pdb
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/celular.csproj.AssemblyReference.cache
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/celular.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/celular.AssemblyInfoInputs.cache
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/celular.AssemblyInfo.cs
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/celular.csproj.CoreCompileInputs.cache
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/celular.dll
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/refint/celular.dll
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/celular.pdb
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/celular.genruntimeconfig.cache
+/Users/jacobo/Projects/celular/celular/obj/Debug/net7.0/ref/celular.dll
